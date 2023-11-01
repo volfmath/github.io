@@ -1,11 +1,11 @@
 # Site settings
-title: My Blog
-SEOTitle: 我的博客 | My Blog
+title: durpar
+SEOTitle: 我的博客 | durpar
 header-img: img/post-bg-desk.jpg
 email: 暂无
 description: "写一句你想写的话"
 keyword: "我的博客"
-url: "http://name.github.io"          # your host, for absolute URL
+url: "http://durpar.ltd"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/name/name.github.io.git" # you code repository
 
